@@ -1,0 +1,54 @@
+{
+  "emotions": {
+    "gazab": {
+      "name": "G'azab",
+      "instructions": "Speak with intense anger, raised voice, sharp and forceful delivery, strong emphasis on angry words, quick and aggressive pace",
+      "speed": 1.15
+    },
+    "qaygu": {
+      "name": "Qayg'u",
+      "instructions": "Speak with deep sadness, slow and deliberate pace, somber tone, quiet voice, emotional and melancholic delivery",
+      "speed": 0.85
+    },
+    "yiglash": {
+      "name": "Yig'lash",
+      "instructions": "Speak while crying, voice cracking, emotional sobbing between words, tearful and trembling delivery, slow pace",
+      "speed": 0.8
+    },
+    "qorquv": {
+      "name": "Qo'rquv",
+      "instructions": "Speak with fear, trembling voice, quick and breathless delivery, shaky and terrified tone, panicked pace",
+      "speed": 1.2
+    },
+    "hayrat": {
+      "name": "Hayrat",
+      "instructions": "Speak with surprise and amazement, elevated pitch, enthusiastic delivery, expressive and shocked tone",
+      "speed": 1.1
+    },
+    "xursandchilik": {
+      "name": "Xursandchilik",
+      "instructions": "Speak with happiness and joy, bright and cheerful tone, energetic delivery, warm and positive voice",
+      "speed": 1.05
+    },
+    "kulish": {
+      "name": "Kulish",
+      "instructions": "Speak with laughter, playful tone, giggling between words, light and humorous delivery",
+      "speed": 1.0
+    },
+    "sovuqqonlik": {
+      "name": "Sovuqqonlik",
+      "instructions": "Speak with coldness and detachment, calm and steady tone, slow and even pace, unemotional delivery",
+      "speed": 0.9
+    },
+    "qahramonona": {
+      "name": "Qahramonona nutq",
+      "instructions": "Speak heroically, powerful and confident tone, strong and clear delivery, inspiring and epic voice, steady and commanding pace",
+      "speed": 1.0
+    },
+    "yovuz_qahramon": {
+      "name": "Yovuz qahramon nutqi",
+      "instructions": "Speak villainously, dark and menacing tone, sinister delivery, slow and deliberate pace with evil intent",
+      "speed": 0.95
+    }
+  }
+}

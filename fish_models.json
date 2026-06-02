@@ -1,0 +1,3538 @@
+[
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370556,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+    "type": "tts",
+    "title": "Valentino Narración Biblica Fer",
+    "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish.",
+    "cover_image": "coverimage/8d2c17a9b26d4d83888ea67a1ee565b2",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "calm",
+      "serious",
+      "authoritative",
+      "professional",
+      "clear",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+        "task_id": "59ce7df6935c42249759327ddf70f37b",
+        "audio": "https://platform.r2.fish.audio/task/59ce7df6935c42249759327ddf70f37b.mp3"
+      }
+    ],
+    "created_at": "2025-03-13T08:11:10.326000Z",
+    "updated_at": "2026-05-03T09:01:41.437000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+    "quality": null,
+    "like_count": 5091,
+    "mark_count": 4614,
+    "shared_count": 763,
+    "task_count": 805480,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "1b82fb6a329c4462b67aa9ee0a42046f",
+      "nickname": "Fernando Caicedo",
+      "avatar": "avatars/1b82fb6a329c4462b67aa9ee0a42046f.jpg"
+    }
+  },
+  {
+    "_id": "dfa5b230c8054f429e434f4a6e9bbdec",
+    "type": "tts",
+    "title": "Farid Dieck",
+    "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content.",
+    "cover_image": "coverimage/dfa5b230c8054f429e434f4a6e9bbdec",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "warm",
+      "calm",
+      "measured",
+      "expressive",
+      "storytelling",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+        "task_id": "b065d4843a5e43d89bfdf1bc060bcf05",
+        "audio": "https://platform.r2.fish.audio/task/b065d4843a5e43d89bfdf1bc060bcf05.mp3"
+      }
+    ],
+    "created_at": "2025-05-20T10:39:15.361000Z",
+    "updated_at": "2026-05-03T09:01:41.447000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+    "quality": null,
+    "like_count": 9969,
+    "mark_count": 6888,
+    "shared_count": 454,
+    "task_count": 1125861,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "b053000c8edb45f19c84faf255d50626",
+      "nickname": "Abyss",
+      "avatar": "avatars/b053000c8edb45f19c84faf255d50626.jpg"
+    }
+  },
+  {
+    "_id": "5b67899dc9a34685ae09c94c890a606f",
+    "type": "tts",
+    "title": "عصام الشوالي ",
+    "description": "عصام الشوالي انا التاريخ",
+    "cover_image": "coverimage/5b67899dc9a34685ae09c94c890a606f",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "entertainment",
+      "energetic",
+      "dynamic",
+      "announcer",
+      "expressive",
+      "Arabic",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+        "task_id": "f5133257f1b94194ac2083547efe8fac",
+        "audio": "https://platform.r2.fish.audio/task/f5133257f1b94194ac2083547efe8fac.mp3"
+      }
+    ],
+    "created_at": "2024-09-26T10:04:17.610000Z",
+    "updated_at": "2026-05-03T09:01:41.517000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+    "quality": null,
+    "like_count": 8299,
+    "mark_count": 7929,
+    "shared_count": 2563,
+    "task_count": 1298246,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "0366cb75dbf7431c93054f76939bed7a",
+      "nickname": "Yousif Elmasry",
+      "avatar": "avatars/0366cb75dbf7431c93054f76939bed7a.jpg"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413433,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687697,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "3f45a7fd7a614655a61eb7027b955783",
+    "type": "tts",
+    "title": "voz de locutor k",
+    "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish.",
+    "cover_image": "coverimage/3f45a7fd7a614655a61eb7027b955783",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "deep",
+      "serious",
+      "calm",
+      "authoritative",
+      "Spanish",
+      "documentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+        "task_id": "9c0265a65e544536abbd8176e0d9214f",
+        "audio": "https://platform.r2.fish.audio/task/9c0265a65e544536abbd8176e0d9214f.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T15:46:20.643000Z",
+    "updated_at": "2026-05-03T09:01:41.276000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+    "quality": null,
+    "like_count": 2618,
+    "mark_count": 2920,
+    "shared_count": 265,
+    "task_count": 273961,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "afd2c8e099d2454cae7d894f9b7a6017",
+      "nickname": "Ferrnanfloo",
+      "avatar": "avatars/afd2c8e099d2454cae7d894f9b7a6017.jpg"
+    }
+  },
+  {
+    "_id": "7eee0787bf1a476fb0864270853e344a",
+    "type": "tts",
+    "title": "يي",
+    "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling.",
+    "cover_image": "coverimage/7eee0787bf1a476fb0864270853e344a",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "female",
+      "young",
+      "character-voice",
+      "soft",
+      "breathy",
+      "gentle",
+      "intimate",
+      "Arabic",
+      "Egyptian"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+        "task_id": "5e8b57eed6e84e9cba4d626957bd5c5e",
+        "audio": "https://platform.r2.fish.audio/task/5e8b57eed6e84e9cba4d626957bd5c5e.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T10:18:18.141000Z",
+    "updated_at": "2025-04-10T10:18:18.140000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+    "quality": null,
+    "like_count": 2192,
+    "mark_count": 2437,
+    "shared_count": 1013,
+    "task_count": 823137,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "55d6188635224592b75e9048fb689a55",
+      "nickname": "020c620139",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  },
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370559,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+    "type": "tts",
+    "title": "Valentino Narración Biblica Fer",
+    "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish.",
+    "cover_image": "coverimage/8d2c17a9b26d4d83888ea67a1ee565b2",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "calm",
+      "serious",
+      "authoritative",
+      "professional",
+      "clear",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+        "task_id": "59ce7df6935c42249759327ddf70f37b",
+        "audio": "https://platform.r2.fish.audio/task/59ce7df6935c42249759327ddf70f37b.mp3"
+      }
+    ],
+    "created_at": "2025-03-13T08:11:10.326000Z",
+    "updated_at": "2026-05-03T09:01:41.437000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+    "quality": null,
+    "like_count": 5091,
+    "mark_count": 4614,
+    "shared_count": 763,
+    "task_count": 805480,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "1b82fb6a329c4462b67aa9ee0a42046f",
+      "nickname": "Fernando Caicedo",
+      "avatar": "avatars/1b82fb6a329c4462b67aa9ee0a42046f.jpg"
+    }
+  },
+  {
+    "_id": "dfa5b230c8054f429e434f4a6e9bbdec",
+    "type": "tts",
+    "title": "Farid Dieck",
+    "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content.",
+    "cover_image": "coverimage/dfa5b230c8054f429e434f4a6e9bbdec",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "warm",
+      "calm",
+      "measured",
+      "expressive",
+      "storytelling",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+        "task_id": "b065d4843a5e43d89bfdf1bc060bcf05",
+        "audio": "https://platform.r2.fish.audio/task/b065d4843a5e43d89bfdf1bc060bcf05.mp3"
+      }
+    ],
+    "created_at": "2025-05-20T10:39:15.361000Z",
+    "updated_at": "2026-05-03T09:01:41.447000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+    "quality": null,
+    "like_count": 9969,
+    "mark_count": 6888,
+    "shared_count": 454,
+    "task_count": 1125861,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "b053000c8edb45f19c84faf255d50626",
+      "nickname": "Abyss",
+      "avatar": "avatars/b053000c8edb45f19c84faf255d50626.jpg"
+    }
+  },
+  {
+    "_id": "5b67899dc9a34685ae09c94c890a606f",
+    "type": "tts",
+    "title": "عصام الشوالي ",
+    "description": "عصام الشوالي انا التاريخ",
+    "cover_image": "coverimage/5b67899dc9a34685ae09c94c890a606f",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "entertainment",
+      "energetic",
+      "dynamic",
+      "announcer",
+      "expressive",
+      "Arabic",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+        "task_id": "f5133257f1b94194ac2083547efe8fac",
+        "audio": "https://platform.r2.fish.audio/task/f5133257f1b94194ac2083547efe8fac.mp3"
+      }
+    ],
+    "created_at": "2024-09-26T10:04:17.610000Z",
+    "updated_at": "2026-05-03T09:01:41.517000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+    "quality": null,
+    "like_count": 8299,
+    "mark_count": 7929,
+    "shared_count": 2563,
+    "task_count": 1298246,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "0366cb75dbf7431c93054f76939bed7a",
+      "nickname": "Yousif Elmasry",
+      "avatar": "avatars/0366cb75dbf7431c93054f76939bed7a.jpg"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413433,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687697,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "3f45a7fd7a614655a61eb7027b955783",
+    "type": "tts",
+    "title": "voz de locutor k",
+    "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish.",
+    "cover_image": "coverimage/3f45a7fd7a614655a61eb7027b955783",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "deep",
+      "serious",
+      "calm",
+      "authoritative",
+      "Spanish",
+      "documentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+        "task_id": "9c0265a65e544536abbd8176e0d9214f",
+        "audio": "https://platform.r2.fish.audio/task/9c0265a65e544536abbd8176e0d9214f.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T15:46:20.643000Z",
+    "updated_at": "2026-05-03T09:01:41.276000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+    "quality": null,
+    "like_count": 2618,
+    "mark_count": 2920,
+    "shared_count": 265,
+    "task_count": 273961,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "afd2c8e099d2454cae7d894f9b7a6017",
+      "nickname": "Ferrnanfloo",
+      "avatar": "avatars/afd2c8e099d2454cae7d894f9b7a6017.jpg"
+    }
+  },
+  {
+    "_id": "7eee0787bf1a476fb0864270853e344a",
+    "type": "tts",
+    "title": "يي",
+    "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling.",
+    "cover_image": "coverimage/7eee0787bf1a476fb0864270853e344a",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "female",
+      "young",
+      "character-voice",
+      "soft",
+      "breathy",
+      "gentle",
+      "intimate",
+      "Arabic",
+      "Egyptian"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+        "task_id": "5e8b57eed6e84e9cba4d626957bd5c5e",
+        "audio": "https://platform.r2.fish.audio/task/5e8b57eed6e84e9cba4d626957bd5c5e.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T10:18:18.141000Z",
+    "updated_at": "2025-04-10T10:18:18.140000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+    "quality": null,
+    "like_count": 2192,
+    "mark_count": 2437,
+    "shared_count": 1013,
+    "task_count": 823137,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "55d6188635224592b75e9048fb689a55",
+      "nickname": "020c620139",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  },
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370560,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+    "type": "tts",
+    "title": "Valentino Narración Biblica Fer",
+    "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish.",
+    "cover_image": "coverimage/8d2c17a9b26d4d83888ea67a1ee565b2",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "calm",
+      "serious",
+      "authoritative",
+      "professional",
+      "clear",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+        "task_id": "59ce7df6935c42249759327ddf70f37b",
+        "audio": "https://platform.r2.fish.audio/task/59ce7df6935c42249759327ddf70f37b.mp3"
+      }
+    ],
+    "created_at": "2025-03-13T08:11:10.326000Z",
+    "updated_at": "2026-05-03T09:01:41.437000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+    "quality": null,
+    "like_count": 5091,
+    "mark_count": 4614,
+    "shared_count": 763,
+    "task_count": 805480,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "1b82fb6a329c4462b67aa9ee0a42046f",
+      "nickname": "Fernando Caicedo",
+      "avatar": "avatars/1b82fb6a329c4462b67aa9ee0a42046f.jpg"
+    }
+  },
+  {
+    "_id": "dfa5b230c8054f429e434f4a6e9bbdec",
+    "type": "tts",
+    "title": "Farid Dieck",
+    "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content.",
+    "cover_image": "coverimage/dfa5b230c8054f429e434f4a6e9bbdec",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "warm",
+      "calm",
+      "measured",
+      "expressive",
+      "storytelling",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+        "task_id": "b065d4843a5e43d89bfdf1bc060bcf05",
+        "audio": "https://platform.r2.fish.audio/task/b065d4843a5e43d89bfdf1bc060bcf05.mp3"
+      }
+    ],
+    "created_at": "2025-05-20T10:39:15.361000Z",
+    "updated_at": "2026-05-03T09:01:41.447000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+    "quality": null,
+    "like_count": 9969,
+    "mark_count": 6888,
+    "shared_count": 454,
+    "task_count": 1125861,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "b053000c8edb45f19c84faf255d50626",
+      "nickname": "Abyss",
+      "avatar": "avatars/b053000c8edb45f19c84faf255d50626.jpg"
+    }
+  },
+  {
+    "_id": "5b67899dc9a34685ae09c94c890a606f",
+    "type": "tts",
+    "title": "عصام الشوالي ",
+    "description": "عصام الشوالي انا التاريخ",
+    "cover_image": "coverimage/5b67899dc9a34685ae09c94c890a606f",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "entertainment",
+      "energetic",
+      "dynamic",
+      "announcer",
+      "expressive",
+      "Arabic",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+        "task_id": "f5133257f1b94194ac2083547efe8fac",
+        "audio": "https://platform.r2.fish.audio/task/f5133257f1b94194ac2083547efe8fac.mp3"
+      }
+    ],
+    "created_at": "2024-09-26T10:04:17.610000Z",
+    "updated_at": "2026-05-03T09:01:41.517000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+    "quality": null,
+    "like_count": 8299,
+    "mark_count": 7929,
+    "shared_count": 2563,
+    "task_count": 1298246,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "0366cb75dbf7431c93054f76939bed7a",
+      "nickname": "Yousif Elmasry",
+      "avatar": "avatars/0366cb75dbf7431c93054f76939bed7a.jpg"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413433,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687697,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "3f45a7fd7a614655a61eb7027b955783",
+    "type": "tts",
+    "title": "voz de locutor k",
+    "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish.",
+    "cover_image": "coverimage/3f45a7fd7a614655a61eb7027b955783",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "deep",
+      "serious",
+      "calm",
+      "authoritative",
+      "Spanish",
+      "documentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+        "task_id": "9c0265a65e544536abbd8176e0d9214f",
+        "audio": "https://platform.r2.fish.audio/task/9c0265a65e544536abbd8176e0d9214f.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T15:46:20.643000Z",
+    "updated_at": "2026-05-03T09:01:41.276000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+    "quality": null,
+    "like_count": 2618,
+    "mark_count": 2920,
+    "shared_count": 265,
+    "task_count": 273961,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "afd2c8e099d2454cae7d894f9b7a6017",
+      "nickname": "Ferrnanfloo",
+      "avatar": "avatars/afd2c8e099d2454cae7d894f9b7a6017.jpg"
+    }
+  },
+  {
+    "_id": "7eee0787bf1a476fb0864270853e344a",
+    "type": "tts",
+    "title": "يي",
+    "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling.",
+    "cover_image": "coverimage/7eee0787bf1a476fb0864270853e344a",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "female",
+      "young",
+      "character-voice",
+      "soft",
+      "breathy",
+      "gentle",
+      "intimate",
+      "Arabic",
+      "Egyptian"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+        "task_id": "5e8b57eed6e84e9cba4d626957bd5c5e",
+        "audio": "https://platform.r2.fish.audio/task/5e8b57eed6e84e9cba4d626957bd5c5e.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T10:18:18.141000Z",
+    "updated_at": "2025-04-10T10:18:18.140000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+    "quality": null,
+    "like_count": 2192,
+    "mark_count": 2437,
+    "shared_count": 1013,
+    "task_count": 823137,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "55d6188635224592b75e9048fb689a55",
+      "nickname": "020c620139",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  },
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370563,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+    "type": "tts",
+    "title": "Valentino Narración Biblica Fer",
+    "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish.",
+    "cover_image": "coverimage/8d2c17a9b26d4d83888ea67a1ee565b2",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "calm",
+      "serious",
+      "authoritative",
+      "professional",
+      "clear",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+        "task_id": "59ce7df6935c42249759327ddf70f37b",
+        "audio": "https://platform.r2.fish.audio/task/59ce7df6935c42249759327ddf70f37b.mp3"
+      }
+    ],
+    "created_at": "2025-03-13T08:11:10.326000Z",
+    "updated_at": "2026-05-03T09:01:41.437000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+    "quality": null,
+    "like_count": 5091,
+    "mark_count": 4614,
+    "shared_count": 763,
+    "task_count": 805480,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "1b82fb6a329c4462b67aa9ee0a42046f",
+      "nickname": "Fernando Caicedo",
+      "avatar": "avatars/1b82fb6a329c4462b67aa9ee0a42046f.jpg"
+    }
+  },
+  {
+    "_id": "dfa5b230c8054f429e434f4a6e9bbdec",
+    "type": "tts",
+    "title": "Farid Dieck",
+    "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content.",
+    "cover_image": "coverimage/dfa5b230c8054f429e434f4a6e9bbdec",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "warm",
+      "calm",
+      "measured",
+      "expressive",
+      "storytelling",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+        "task_id": "b065d4843a5e43d89bfdf1bc060bcf05",
+        "audio": "https://platform.r2.fish.audio/task/b065d4843a5e43d89bfdf1bc060bcf05.mp3"
+      }
+    ],
+    "created_at": "2025-05-20T10:39:15.361000Z",
+    "updated_at": "2026-05-03T09:01:41.447000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+    "quality": null,
+    "like_count": 9969,
+    "mark_count": 6888,
+    "shared_count": 454,
+    "task_count": 1125861,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "b053000c8edb45f19c84faf255d50626",
+      "nickname": "Abyss",
+      "avatar": "avatars/b053000c8edb45f19c84faf255d50626.jpg"
+    }
+  },
+  {
+    "_id": "5b67899dc9a34685ae09c94c890a606f",
+    "type": "tts",
+    "title": "عصام الشوالي ",
+    "description": "عصام الشوالي انا التاريخ",
+    "cover_image": "coverimage/5b67899dc9a34685ae09c94c890a606f",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "entertainment",
+      "energetic",
+      "dynamic",
+      "announcer",
+      "expressive",
+      "Arabic",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+        "task_id": "f5133257f1b94194ac2083547efe8fac",
+        "audio": "https://platform.r2.fish.audio/task/f5133257f1b94194ac2083547efe8fac.mp3"
+      }
+    ],
+    "created_at": "2024-09-26T10:04:17.610000Z",
+    "updated_at": "2026-05-03T09:01:41.517000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+    "quality": null,
+    "like_count": 8299,
+    "mark_count": 7929,
+    "shared_count": 2563,
+    "task_count": 1298246,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "0366cb75dbf7431c93054f76939bed7a",
+      "nickname": "Yousif Elmasry",
+      "avatar": "avatars/0366cb75dbf7431c93054f76939bed7a.jpg"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413433,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687697,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "3f45a7fd7a614655a61eb7027b955783",
+    "type": "tts",
+    "title": "voz de locutor k",
+    "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish.",
+    "cover_image": "coverimage/3f45a7fd7a614655a61eb7027b955783",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "deep",
+      "serious",
+      "calm",
+      "authoritative",
+      "Spanish",
+      "documentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+        "task_id": "9c0265a65e544536abbd8176e0d9214f",
+        "audio": "https://platform.r2.fish.audio/task/9c0265a65e544536abbd8176e0d9214f.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T15:46:20.643000Z",
+    "updated_at": "2026-05-03T09:01:41.276000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+    "quality": null,
+    "like_count": 2618,
+    "mark_count": 2920,
+    "shared_count": 265,
+    "task_count": 273961,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "afd2c8e099d2454cae7d894f9b7a6017",
+      "nickname": "Ferrnanfloo",
+      "avatar": "avatars/afd2c8e099d2454cae7d894f9b7a6017.jpg"
+    }
+  },
+  {
+    "_id": "7eee0787bf1a476fb0864270853e344a",
+    "type": "tts",
+    "title": "يي",
+    "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling.",
+    "cover_image": "coverimage/7eee0787bf1a476fb0864270853e344a",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "female",
+      "young",
+      "character-voice",
+      "soft",
+      "breathy",
+      "gentle",
+      "intimate",
+      "Arabic",
+      "Egyptian"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+        "task_id": "5e8b57eed6e84e9cba4d626957bd5c5e",
+        "audio": "https://platform.r2.fish.audio/task/5e8b57eed6e84e9cba4d626957bd5c5e.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T10:18:18.141000Z",
+    "updated_at": "2025-04-10T10:18:18.140000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+    "quality": null,
+    "like_count": 2192,
+    "mark_count": 2437,
+    "shared_count": 1013,
+    "task_count": 823137,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "55d6188635224592b75e9048fb689a55",
+      "nickname": "020c620139",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  },
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370565,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+    "type": "tts",
+    "title": "Valentino Narración Biblica Fer",
+    "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish.",
+    "cover_image": "coverimage/8d2c17a9b26d4d83888ea67a1ee565b2",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "calm",
+      "serious",
+      "authoritative",
+      "professional",
+      "clear",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+        "task_id": "59ce7df6935c42249759327ddf70f37b",
+        "audio": "https://platform.r2.fish.audio/task/59ce7df6935c42249759327ddf70f37b.mp3"
+      }
+    ],
+    "created_at": "2025-03-13T08:11:10.326000Z",
+    "updated_at": "2026-05-03T09:01:41.437000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+    "quality": null,
+    "like_count": 5091,
+    "mark_count": 4614,
+    "shared_count": 763,
+    "task_count": 805480,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "1b82fb6a329c4462b67aa9ee0a42046f",
+      "nickname": "Fernando Caicedo",
+      "avatar": "avatars/1b82fb6a329c4462b67aa9ee0a42046f.jpg"
+    }
+  },
+  {
+    "_id": "dfa5b230c8054f429e434f4a6e9bbdec",
+    "type": "tts",
+    "title": "Farid Dieck",
+    "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content.",
+    "cover_image": "coverimage/dfa5b230c8054f429e434f4a6e9bbdec",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "warm",
+      "calm",
+      "measured",
+      "expressive",
+      "storytelling",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+        "task_id": "b065d4843a5e43d89bfdf1bc060bcf05",
+        "audio": "https://platform.r2.fish.audio/task/b065d4843a5e43d89bfdf1bc060bcf05.mp3"
+      }
+    ],
+    "created_at": "2025-05-20T10:39:15.361000Z",
+    "updated_at": "2026-05-03T09:01:41.447000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+    "quality": null,
+    "like_count": 9969,
+    "mark_count": 6888,
+    "shared_count": 454,
+    "task_count": 1125861,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "b053000c8edb45f19c84faf255d50626",
+      "nickname": "Abyss",
+      "avatar": "avatars/b053000c8edb45f19c84faf255d50626.jpg"
+    }
+  },
+  {
+    "_id": "5b67899dc9a34685ae09c94c890a606f",
+    "type": "tts",
+    "title": "عصام الشوالي ",
+    "description": "عصام الشوالي انا التاريخ",
+    "cover_image": "coverimage/5b67899dc9a34685ae09c94c890a606f",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "entertainment",
+      "energetic",
+      "dynamic",
+      "announcer",
+      "expressive",
+      "Arabic",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+        "task_id": "f5133257f1b94194ac2083547efe8fac",
+        "audio": "https://platform.r2.fish.audio/task/f5133257f1b94194ac2083547efe8fac.mp3"
+      }
+    ],
+    "created_at": "2024-09-26T10:04:17.610000Z",
+    "updated_at": "2026-05-03T09:01:41.517000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+    "quality": null,
+    "like_count": 8299,
+    "mark_count": 7929,
+    "shared_count": 2563,
+    "task_count": 1298246,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "0366cb75dbf7431c93054f76939bed7a",
+      "nickname": "Yousif Elmasry",
+      "avatar": "avatars/0366cb75dbf7431c93054f76939bed7a.jpg"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413434,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687697,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "3f45a7fd7a614655a61eb7027b955783",
+    "type": "tts",
+    "title": "voz de locutor k",
+    "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish.",
+    "cover_image": "coverimage/3f45a7fd7a614655a61eb7027b955783",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "deep",
+      "serious",
+      "calm",
+      "authoritative",
+      "Spanish",
+      "documentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+        "task_id": "9c0265a65e544536abbd8176e0d9214f",
+        "audio": "https://platform.r2.fish.audio/task/9c0265a65e544536abbd8176e0d9214f.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T15:46:20.643000Z",
+    "updated_at": "2026-05-03T09:01:41.276000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+    "quality": null,
+    "like_count": 2618,
+    "mark_count": 2920,
+    "shared_count": 265,
+    "task_count": 273961,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "afd2c8e099d2454cae7d894f9b7a6017",
+      "nickname": "Ferrnanfloo",
+      "avatar": "avatars/afd2c8e099d2454cae7d894f9b7a6017.jpg"
+    }
+  },
+  {
+    "_id": "7eee0787bf1a476fb0864270853e344a",
+    "type": "tts",
+    "title": "يي",
+    "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling.",
+    "cover_image": "coverimage/7eee0787bf1a476fb0864270853e344a",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "female",
+      "young",
+      "character-voice",
+      "soft",
+      "breathy",
+      "gentle",
+      "intimate",
+      "Arabic",
+      "Egyptian"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+        "task_id": "5e8b57eed6e84e9cba4d626957bd5c5e",
+        "audio": "https://platform.r2.fish.audio/task/5e8b57eed6e84e9cba4d626957bd5c5e.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T10:18:18.141000Z",
+    "updated_at": "2025-04-10T10:18:18.140000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+    "quality": null,
+    "like_count": 2192,
+    "mark_count": 2437,
+    "shared_count": 1013,
+    "task_count": 823137,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "55d6188635224592b75e9048fb689a55",
+      "nickname": "020c620139",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  },
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370566,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413435,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687697,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  },
+  {
+    "_id": "92565bd2b241473eb8255cf392323cf4",
+    "type": "tts",
+    "title": "Smash Bros ",
+    "description": "Smash Bros voz ",
+    "cover_image": "coverimage/92565bd2b241473eb8255cf392323cf4",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "energetic",
+      "announcer",
+      "gaming",
+      "dramatic",
+      "Video Game Announcer"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Falco, Marth, Lucina, Young Link, Ganondorf, Mewtwo, Roy, Chrom, Mr. Game and Watch, Meta Knight, Pit, Dark Pit, Wario, Snake, Ike, Pokemon Trainer, Diddy Kong, Lucas, Sonic, King Dedede, Olimar, Lucario, R.O.B., Wolf, Villager, Mega Man, Wii Fit Trainer, Little Mac, Greninja, Palutena, Pac-Man, Shulk!",
+        "task_id": "c2d1aec0ed204566b541b02be22a0ae9",
+        "audio": "https://platform.r2.fish.audio/task/c2d1aec0ed204566b541b02be22a0ae9.mp3"
+      }
+    ],
+    "created_at": "2026-02-24T18:26:30.164000Z",
+    "updated_at": "2026-05-03T09:01:41.649000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Falco, Marth, Lucina, Young Link, Ganondorf, Mewtwo, Roy, Chrom, Mr. Game and Watch, Meta Knight, Pit, Dark Pit, Wario, Snake, Ike, Pokemon Trainer, Diddy Kong, Lucas, Sonic, King Dedede, Olimar, Lucario, R.O.B., Wolf, Villager, Mega Man, Wii Fit Trainer, Little Mac, Greninja, Palutena, Pac-Man, Shulk!",
+    "quality": null,
+    "like_count": 1422,
+    "mark_count": 340,
+    "shared_count": 97,
+    "task_count": 803766,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "d6c6f29530c4444f9865580dee466aa3",
+      "nickname": "Saul Rodríguez",
+      "avatar": "avatars/d6c6f29530c4444f9865580dee466aa3.jpg"
+    }
+  },
+  {
+    "_id": "59e9dc1cb20c452584788a2690c80970",
+    "type": "tts",
+    "title": "ALLE",
+    "description": "A young female voice with an energetic and friendly tone, ideal for social media content and product reviews. The voice is clear, expressive, and maintains a high-paced, conversational flow.",
+    "cover_image": "coverimage/59e9dc1cb20c452584788a2690c80970",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "neutral",
+      "young",
+      "social-media",
+      "advertisement",
+      "conversational",
+      "energetic",
+      "friendly",
+      "enthusiastic",
+      "bright",
+      "expressive"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Okay, you guys literally need to see this new foundation brush I found. It's so incredibly soft and blends everything like butter. The best part? It's normally $45 but right now it's on sale for $28 with a free setting spray. Like, such an amazing deal!",
+        "task_id": "5507666747e4405091c9875974fa1579",
+        "audio": "https://platform.r2.fish.audio/task/5507666747e4405091c9875974fa1579.mp3"
+      }
+    ],
+    "created_at": "2025-01-23T17:36:37.257000Z",
+    "updated_at": "2026-05-03T09:01:40.706000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Okay, you guys literally need to see this new foundation brush I found. It's so incredibly soft and blends everything like butter. The best part? It's normally $45 but right now it's on sale for $28 with a free setting spray. Like, such an amazing deal!",
+    "quality": null,
+    "like_count": 2393,
+    "mark_count": 2360,
+    "shared_count": 347,
+    "task_count": 301309,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "8d5515a710d647d88008c51dc239d0a2",
+      "nickname": "swwv pytb",
+      "avatar": "avatars/8d5515a710d647d88008c51dc239d0a2.jpg"
+    }
+  },
+  {
+    "_id": "b63eb2796f7342ffa645141c67855997",
+    "type": "tts",
+    "title": "smash bros announcer",
+    "description": "announcer for smash bros ultimate",
+    "cover_image": "coverimage/b63eb2796f7342ffa645141c67855997",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "deep",
+      "announcer",
+      "character-voice",
+      "entertainment",
+      "gaming",
+      "enthusiastic",
+      "dramatic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your character! Three, two, one, GO! A new challenger approaches! Player one, red team, versus player two, blue team. Sudden death! Game! The winner is... Mario! New record! Congratulations on a spectacular victory. See you next time for more high-octane battle action!",
+        "task_id": "497ce3e993594848ae1850efed9b4413",
+        "audio": "https://platform.r2.fish.audio/task/497ce3e993594848ae1850efed9b4413.mp3"
+      }
+    ],
+    "created_at": "2026-02-02T19:22:53.704000Z",
+    "updated_at": "2026-05-03T09:01:39.643000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your character! Three, two, one, GO! A new challenger approaches! Player one, red team, versus player two, blue team. Sudden death! Game! The winner is... Mario! New record! Congratulations on a spectacular victory. See you next time for more high-octane battle action!",
+    "quality": null,
+    "like_count": 958,
+    "mark_count": 260,
+    "shared_count": 81,
+    "task_count": 597055,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4486e58769f84b34a163e0221be77561",
+      "nickname": "pickle cheese",
+      "avatar": "avatars/4486e58769f84b34a163e0221be77561.jpg"
+    }
+  },
+  {
+    "_id": "ef9c79b62ef34530bf452c0e50e3c260",
+    "type": "tts",
+    "title": "horror",
+    "description": "A deep and serious middle-aged male voice with a calm, mysterious tone. Well-suited for suspenseful narration, documentaries, or cinematic storytelling.",
+    "cover_image": "coverimage/ef9c79b62ef34530bf452c0e50e3c260",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "deep",
+      "low",
+      "serious",
+      "calm",
+      "mysterious",
+      "storytelling"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "During the winter of 1985, residents of a small Maine town reported seeing shadowy figures standing motionless in their yards at night. The entities would vanish when approached, leaving only deep footprints in the snow. Despite multiple witnesses, no explanation was ever found.",
+        "task_id": "20bc0df607cd466180e27001089378a8",
+        "audio": "https://platform.r2.fish.audio/task/20bc0df607cd466180e27001089378a8.mp3"
+      }
+    ],
+    "created_at": "2025-01-31T12:10:49.440000Z",
+    "updated_at": "2025-01-31T12:10:49.440000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "During the winter of 1985, residents of a small Maine town reported seeing shadowy figures standing motionless in their yards at night. The entities would vanish when approached, leaving only deep footprints in the snow. Despite multiple witnesses, no explanation was ever found.",
+    "quality": null,
+    "like_count": 2987,
+    "mark_count": 3592,
+    "shared_count": 292,
+    "task_count": 249844,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "78f23b4bcbfd499fa0ad79d2c03e4819",
+      "nickname": "Modestas",
+      "avatar": "avatars/78f23b4bcbfd499fa0ad79d2c03e4819.jpg"
+    }
+  },
+  {
+    "_id": "88872b3d83694d8490b55d75480205a0",
+    "type": "tts",
+    "title": "Mortal Kombat Announcer ",
+    "description": "SCORPION WINS!",
+    "cover_image": "coverimage/88872b3d83694d8490b55d75480205a0",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "authoritative",
+      "dramatic",
+      "cinematic",
+      "announcer",
+      "Video Game"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Raiden! Shang Tsung! Kitana! Choose your destiny! Johnny Cage! Sonya Blade! Kano! Jax! Round One... FIGHT! Finish Him! FATALITY! Flawless Victory!",
+        "task_id": "866034166fdd4a0f93ce90503b93fed1",
+        "audio": "https://platform.r2.fish.audio/task/866034166fdd4a0f93ce90503b93fed1.mp3"
+      }
+    ],
+    "created_at": "2025-09-29T07:41:31.229000Z",
+    "updated_at": "2026-05-03T09:01:41.501000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden! Shang Tsung! Kitana! Choose your destiny! Johnny Cage! Sonya Blade! Kano! Jax! Round One... FIGHT! Finish Him! FATALITY! Flawless Victory!",
+    "quality": null,
+    "like_count": 1352,
+    "mark_count": 799,
+    "shared_count": 199,
+    "task_count": 933345,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "cc15410ec6a449918f7838d44144d2ff",
+      "nickname": "kan",
+      "avatar": "avatars/cc15410ec6a449918f7838d44144d2ff.jpg"
+    }
+  },
+  {
+    "_id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "type": "tts",
+    "title": "Super Smash Bros. 4/Ultimate Announcer",
+    "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary.",
+    "cover_image": "coverimage/90e65eaaf50e4470b8e6d43ee6afd7d5",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "entertainment",
+      "deep",
+      "energetic",
+      "authoritative",
+      "dramatic",
+      "announcer",
+      "gaming",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+        "task_id": "265105e4556b4c0f906b0f426de988da",
+        "audio": "https://platform.r2.fish.audio/task/265105e4556b4c0f906b0f426de988da.mp3"
+      }
+    ],
+    "created_at": "2025-07-11T02:00:27.005000Z",
+    "updated_at": "2026-05-03T09:01:41.624000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Choose your fighter! Mario! Link! Samus! Battle mode: Team Smash! Three stock match! Ready... GO! Player One... DEFEATED! Player Two... WINS! Game Set! This battle's winner is... BLUE TEAM! New record!",
+    "quality": null,
+    "like_count": 7396,
+    "mark_count": 3493,
+    "shared_count": 1274,
+    "task_count": 6370570,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "4fc33e0b0d314efca22a5dcabebaa526",
+      "nickname": "Club RM Studios Latinoamérica",
+      "avatar": "avatars/4fc33e0b0d314efca22a5dcabebaa526"
+    }
+  },
+  {
+    "_id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+    "type": "tts",
+    "title": "Valentino Narración Biblica Fer",
+    "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish.",
+    "cover_image": "coverimage/8d2c17a9b26d4d83888ea67a1ee565b2",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "calm",
+      "serious",
+      "authoritative",
+      "professional",
+      "clear",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+        "task_id": "59ce7df6935c42249759327ddf70f37b",
+        "audio": "https://platform.r2.fish.audio/task/59ce7df6935c42249759327ddf70f37b.mp3"
+      }
+    ],
+    "created_at": "2025-03-13T08:11:10.326000Z",
+    "updated_at": "2026-05-03T09:01:41.437000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Hermanos míos, recordemos las palabras del Señor en estos tiempos difíciles. Como dice la Escritura, la fe mueve montañas, y el amor de Dios nos guía en cada paso del camino. Mantengamos firme nuestra confianza en Su divina providencia.",
+    "quality": null,
+    "like_count": 5091,
+    "mark_count": 4614,
+    "shared_count": 763,
+    "task_count": 805480,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "1b82fb6a329c4462b67aa9ee0a42046f",
+      "nickname": "Fernando Caicedo",
+      "avatar": "avatars/1b82fb6a329c4462b67aa9ee0a42046f.jpg"
+    }
+  },
+  {
+    "_id": "dfa5b230c8054f429e434f4a6e9bbdec",
+    "type": "tts",
+    "title": "Farid Dieck",
+    "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content.",
+    "cover_image": "coverimage/dfa5b230c8054f429e434f4a6e9bbdec",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "warm",
+      "calm",
+      "measured",
+      "expressive",
+      "storytelling",
+      "Spanish"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+        "task_id": "b065d4843a5e43d89bfdf1bc060bcf05",
+        "audio": "https://platform.r2.fish.audio/task/b065d4843a5e43d89bfdf1bc060bcf05.mp3"
+      }
+    ],
+    "created_at": "2025-05-20T10:39:15.361000Z",
+    "updated_at": "2026-05-03T09:01:41.447000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Alguna vez te preguntaste por qué la Bella Durmiente no despertó antes? Porque a veces el verdadero sueño no es físico, sino emocional. La princesa no dormía por una maldición, dormía porque nadie la había enseñado a vivir despierta. A veces el despertar más difícil es el del alma.",
+    "quality": null,
+    "like_count": 9969,
+    "mark_count": 6888,
+    "shared_count": 454,
+    "task_count": 1125861,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "b053000c8edb45f19c84faf255d50626",
+      "nickname": "Abyss",
+      "avatar": "avatars/b053000c8edb45f19c84faf255d50626.jpg"
+    }
+  },
+  {
+    "_id": "5b67899dc9a34685ae09c94c890a606f",
+    "type": "tts",
+    "title": "عصام الشوالي ",
+    "description": "عصام الشوالي انا التاريخ",
+    "cover_image": "coverimage/5b67899dc9a34685ae09c94c890a606f",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "entertainment",
+      "energetic",
+      "dynamic",
+      "announcer",
+      "expressive",
+      "Arabic",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+        "task_id": "f5133257f1b94194ac2083547efe8fac",
+        "audio": "https://platform.r2.fish.audio/task/f5133257f1b94194ac2083547efe8fac.mp3"
+      }
+    ],
+    "created_at": "2024-09-26T10:04:17.610000Z",
+    "updated_at": "2026-05-03T09:01:41.517000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "يا سادة يا كرام! ها هو يتقدم كالصاروخ، يراوغ المدافع، يتخطى الحارس، يااااا الله! هدف تاريخي! هدف من كوكب آخر! لحظة سحرية تحبس الأنفاس! الجماهير في حالة جنون، إنه الهدف الذي سيتحدث عنه التاريخ!",
+    "quality": null,
+    "like_count": 8299,
+    "mark_count": 7929,
+    "shared_count": 2563,
+    "task_count": 1298247,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "0366cb75dbf7431c93054f76939bed7a",
+      "nickname": "Yousif Elmasry",
+      "avatar": "avatars/0366cb75dbf7431c93054f76939bed7a.jpg"
+    }
+  },
+  {
+    "_id": "52e0660e03fe4f9a8d2336f67cab5440",
+    "type": "tts",
+    "title": "ALEX_CHIKNA",
+    "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements.",
+    "cover_image": "coverimage/52e0660e03fe4f9a8d2336f67cab5440",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "social-media",
+      "entertainment",
+      "energetic",
+      "confident",
+      "enthusiastic",
+      "fast",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+        "task_id": "b46d22d922224e54a77cd6afbb58c0bf",
+        "audio": "https://platform.r2.fish.audio/task/b46d22d922224e54a77cd6afbb58c0bf.mp3"
+      }
+    ],
+    "created_at": "2025-05-06T11:07:12.195000Z",
+    "updated_at": "2026-05-03T09:01:41.429000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "What's up WWE Universe! Breaking news: Roman Reigns just dropped a bombshell on social media! The Tribal Chief hints at a potential dream match at SummerSlam, and fans are going crazy! Could this be the biggest match of the year? Drop your predictions below, and don't forget to smash that like button!",
+    "quality": null,
+    "like_count": 1752,
+    "mark_count": 811,
+    "shared_count": 369,
+    "task_count": 413435,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "249352f8ec114c779db01da6bb5782fb",
+      "nickname": "Zaindesignes",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d13f84b987ad4f22b56d2b47f4eb838e",
+    "type": "tts",
+    "title": "Mortal Kombat",
+    "description": "Pedro ",
+    "cover_image": "coverimage/d13f84b987ad4f22b56d2b47f4eb838e",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "character-voice",
+      "deep",
+      "low",
+      "dramatic",
+      "mysterious",
+      "cinematic"
+    ],
+    "samples": [
+      {
+        "title": "Pedro ",
+        "text": "Nicolasssss\n\n",
+        "task_id": "ba41215cabb3430b8f9a153fd720b385",
+        "audio": "https://platform.r2.fish.audio/task/ba41215cabb3430b8f9a153fd720b385.mp3"
+      }
+    ],
+    "created_at": "2025-02-26T20:05:26.449000Z",
+    "updated_at": "2026-05-03T09:01:41.297000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "Raiden summons warriors to Earthrealm kombat. Scorpion, Sub-Zero, Liu Kang stand ready. The ancient tournament begins anew. Shang Tsung watches from shadows. Choose your destiny, mortal ones. Test your might!",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 991,
+    "shared_count": 297,
+    "task_count": 1687698,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "6a1d899d9e484b44891f8c29f3ca0f5e",
+      "nickname": "Pedro Paulo Góes",
+      "avatar": "avatars/6a1d899d9e484b44891f8c29f3ca0f5e.jpg"
+    }
+  },
+  {
+    "_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "type": "tts",
+    "title": "Energetic Male",
+    "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content.",
+    "cover_image": "coverimage/802e3bc2b27e49c2995d23ef70e6ac89",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "young",
+      "social-media",
+      "advertisement",
+      "energetic",
+      "enthusiastic",
+      "clear",
+      "crisp",
+      "announcer"
+    ],
+    "samples": [
+      {
+        "title": "Intro",
+        "text": "Hey there! After months of intensive development, Fish Audio 1.5 has just launched with major improvements to expressiveness, stability, and cross-language capabilities.",
+        "task_id": "04c54aec083e49feb366d3ec0578a8f6",
+        "audio": "https://platform.r2.fish.audio/task/04c54aec083e49feb366d3ec0578a8f6.mp3"
+      },
+      {
+        "title": "Sales",
+        "text": "Our AI voices can help you scale your business globally while maintaining that personal touch, whether it's for training videos, customer support, or professional voice-overs.",
+        "task_id": "84dc122ebe734a70a5ff0aba52538fa2",
+        "audio": "https://platform.r2.fish.audio/task/84dc122ebe734a70a5ff0aba52538fa2.mp3"
+      }
+    ],
+    "created_at": "2024-12-04T07:25:56.869000Z",
+    "updated_at": "2024-12-04T07:25:56.869000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "",
+    "quality": null,
+    "like_count": 2221,
+    "mark_count": 2195,
+    "shared_count": 324,
+    "task_count": 402407,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "61bffc8da7cc4d76a8027d87fa7d6827",
+      "nickname": "lengyue",
+      "avatar": "avatars/61bffc8da7cc4d76a8027d87fa7d6827.png"
+    }
+  },
+  {
+    "_id": "3f45a7fd7a614655a61eb7027b955783",
+    "type": "tts",
+    "title": "voz de locutor k",
+    "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish.",
+    "cover_image": "coverimage/3f45a7fd7a614655a61eb7027b955783",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "old",
+      "narration",
+      "deep",
+      "serious",
+      "calm",
+      "authoritative",
+      "Spanish",
+      "documentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+        "task_id": "9c0265a65e544536abbd8176e0d9214f",
+        "audio": "https://platform.r2.fish.audio/task/9c0265a65e544536abbd8176e0d9214f.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T15:46:20.643000Z",
+    "updated_at": "2026-05-03T09:01:41.276000Z",
+    "languages": [
+      "es"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "¿Piensas que tus decisiones son realmente tuyas? La mayoría vive siguiendo patrones automáticos, repitiendo comportamientos sin cuestionarlos. Pero la verdadera transformación comienza cuando despiertas tu consciencia y empiezas a elegir deliberadamente cada acción, cada pensamiento.",
+    "quality": null,
+    "like_count": 2618,
+    "mark_count": 2920,
+    "shared_count": 265,
+    "task_count": 273961,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "afd2c8e099d2454cae7d894f9b7a6017",
+      "nickname": "Ferrnanfloo",
+      "avatar": "avatars/afd2c8e099d2454cae7d894f9b7a6017.jpg"
+    }
+  },
+  {
+    "_id": "7eee0787bf1a476fb0864270853e344a",
+    "type": "tts",
+    "title": "يي",
+    "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling.",
+    "cover_image": "coverimage/7eee0787bf1a476fb0864270853e344a",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "female",
+      "young",
+      "character-voice",
+      "soft",
+      "breathy",
+      "gentle",
+      "intimate",
+      "Arabic",
+      "Egyptian"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+        "task_id": "5e8b57eed6e84e9cba4d626957bd5c5e",
+        "audio": "https://platform.r2.fish.audio/task/5e8b57eed6e84e9cba4d626957bd5c5e.mp3"
+      }
+    ],
+    "created_at": "2025-04-10T10:18:18.141000Z",
+    "updated_at": "2025-04-10T10:18:18.140000Z",
+    "languages": [
+      "ar"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "طيب يا حبيبي ليه مش بترد؟ انا عارفة اني غلطانة وعارفة اني زعلتك. بس والله العظيم ما قصدت. انت غالي عندي وبجد مش قادرة استحمل زعلك. سامحني بقى، خليني اشوفك واحكيلك كل حاجة.",
+    "quality": null,
+    "like_count": 2192,
+    "mark_count": 2437,
+    "shared_count": 1013,
+    "task_count": 823137,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "55d6188635224592b75e9048fb689a55",
+      "nickname": "020c620139",
+      "avatar": ""
+    }
+  },
+  {
+    "_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+    "type": "tts",
+    "title": "ELITE",
+    "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations.",
+    "cover_image": "coverimage/d8a1340984ee4b63ad1ffae27a6a4339",
+    "train_mode": "fast",
+    "state": "trained",
+    "tags": [
+      "male",
+      "middle-aged",
+      "narration",
+      "confident",
+      "energetic",
+      "professional",
+      "Sports Commentary"
+    ],
+    "samples": [
+      {
+        "title": "Default Sample",
+        "text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+        "task_id": "00301e3ceca04975bf061a95ae0ece7a",
+        "audio": "https://platform.r2.fish.audio/task/00301e3ceca04975bf061a95ae0ece7a.mp3"
+      }
+    ],
+    "created_at": "2025-07-30T23:54:20.490000Z",
+    "updated_at": "2026-05-03T09:01:40.981000Z",
+    "languages": [
+      "en"
+    ],
+    "visibility": "public",
+    "lock_visibility": false,
+    "dmca_taken_down": false,
+    "default_text": "The fourth quarter intensity was electric. Players battling through contact, coaches challenging calls from the sidelines. But it wasn't just about the scoreboard - it was about respect on the court. The officials' inconsistency had everyone talking, from fans to analysts.",
+    "quality": null,
+    "like_count": 926,
+    "mark_count": 601,
+    "shared_count": 97,
+    "task_count": 232513,
+    "unliked": false,
+    "liked": false,
+    "marked": false,
+    "author": {
+      "_id": "f4e0a4ad17d044028378e69248bc3618",
+      "nickname": "Nabil EL-Hilaly",
+      "avatar": "avatars/f4e0a4ad17d044028378e69248bc3618.jpg"
+    }
+  }
+]

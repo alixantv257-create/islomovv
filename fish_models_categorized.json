@@ -1,0 +1,234 @@
+{
+  "boy": [
+    {
+      "id": "802e3bc2b27e49c2995d23ef70e6ac89",
+      "title": "Energetic Male",
+      "tags": [
+        "male",
+        "young",
+        "social-media",
+        "advertisement",
+        "energetic",
+        "enthusiastic",
+        "clear",
+        "crisp",
+        "announcer"
+      ],
+      "description": "A youthful and energetic male voice with a clear, professional American accent. The tone is dynamic and enthusiastic, well-suited for high-energy announcements and promotional content."
+    }
+  ],
+  "girl": [
+    {
+      "id": "7eee0787bf1a476fb0864270853e344a",
+      "title": "يي",
+      "tags": [
+        "female",
+        "young",
+        "character-voice",
+        "soft",
+        "breathy",
+        "gentle",
+        "intimate",
+        "Arabic",
+        "Egyptian"
+      ],
+      "description": "This voice is a gentle and emotional female speaker with a soft, breathy quality. It conveys a sincere, apologetic tone in Arabic, making it ideal for intimate character dialogue or storytelling."
+    }
+  ],
+  "man": [
+    {
+      "id": "dfa5b230c8054f429e434f4a6e9bbdec",
+      "title": "Farid Dieck",
+      "tags": [
+        "male",
+        "middle-aged",
+        "narration",
+        "warm",
+        "calm",
+        "measured",
+        "expressive",
+        "storytelling",
+        "Spanish"
+      ],
+      "description": "A warm and reflective male voice with a calm, storytelling tone, speaking in Spanish. It features a measured pace and an expressive quality suitable for narrative or philosophical content."
+    },
+    {
+      "id": "52e0660e03fe4f9a8d2336f67cab5440",
+      "title": "ALEX_CHIKNA",
+      "tags": [
+        "male",
+        "middle-aged",
+        "social-media",
+        "entertainment",
+        "energetic",
+        "confident",
+        "enthusiastic",
+        "fast",
+        "Sports Commentary"
+      ],
+      "description": "A confident and energetic young male voice with a fast-paced, enthusiastic delivery. This voice is well-suited for social media content, sports commentary, and high-energy promotional announcements."
+    },
+    {
+      "id": "d8a1340984ee4b63ad1ffae27a6a4339",
+      "title": "ELITE",
+      "tags": [
+        "male",
+        "middle-aged",
+        "narration",
+        "confident",
+        "energetic",
+        "professional",
+        "Sports Commentary"
+      ],
+      "description": "A confident and energetic young male voice with a crisp, professional tone, well-suited for sports commentary or engaging narrations."
+    },
+    {
+      "id": "ef9c79b62ef34530bf452c0e50e3c260",
+      "title": "horror",
+      "tags": [
+        "male",
+        "middle-aged",
+        "narration",
+        "deep",
+        "low",
+        "serious",
+        "calm",
+        "mysterious",
+        "storytelling"
+      ],
+      "description": "A deep and serious middle-aged male voice with a calm, mysterious tone. Well-suited for suspenseful narration, documentaries, or cinematic storytelling."
+    }
+  ],
+  "woman": [],
+  "old": [
+    {
+      "id": "90e65eaaf50e4470b8e6d43ee6afd7d5",
+      "title": "Super Smash Bros. 4/Ultimate Announcer",
+      "tags": [
+        "male",
+        "old",
+        "character-voice",
+        "entertainment",
+        "deep",
+        "energetic",
+        "authoritative",
+        "dramatic",
+        "announcer",
+        "gaming",
+        "cinematic"
+      ],
+      "description": "A powerful and authoritative middle-aged male voice with a dramatic, cinematic quality. It features a deep, resonant tone perfectly suited for gaming announcers or high-energy sports commentary."
+    },
+    {
+      "id": "8d2c17a9b26d4d83888ea67a1ee565b2",
+      "title": "Valentino Narración Biblica Fer",
+      "tags": [
+        "male",
+        "old",
+        "narration",
+        "calm",
+        "serious",
+        "authoritative",
+        "professional",
+        "clear",
+        "Spanish"
+      ],
+      "description": "A mature and authoritative male voice with a calm, spiritual tone. It is well-suited for religious narration, educational content, and professional storytelling in Spanish."
+    },
+    {
+      "id": "5b67899dc9a34685ae09c94c890a606f",
+      "title": "عصام الشوالي ",
+      "tags": [
+        "male",
+        "old",
+        "entertainment",
+        "energetic",
+        "dynamic",
+        "announcer",
+        "expressive",
+        "Arabic",
+        "Sports Commentary"
+      ],
+      "description": "عصام الشوالي انا التاريخ"
+    },
+    {
+      "id": "d13f84b987ad4f22b56d2b47f4eb838e",
+      "title": "Mortal Kombat",
+      "tags": [
+        "male",
+        "old",
+        "character-voice",
+        "deep",
+        "low",
+        "dramatic",
+        "mysterious",
+        "cinematic"
+      ],
+      "description": "Pedro "
+    },
+    {
+      "id": "3f45a7fd7a614655a61eb7027b955783",
+      "title": "voz de locutor k",
+      "tags": [
+        "male",
+        "old",
+        "narration",
+        "deep",
+        "serious",
+        "calm",
+        "authoritative",
+        "Spanish",
+        "documentary"
+      ],
+      "description": "A deep and authoritative middle-aged male voice with a calm, serious tone. It is well-suited for philosophical narration, educational content, and dramatic storytelling in Spanish."
+    },
+    {
+      "id": "92565bd2b241473eb8255cf392323cf4",
+      "title": "Smash Bros ",
+      "tags": [
+        "male",
+        "old",
+        "character-voice",
+        "deep",
+        "energetic",
+        "announcer",
+        "gaming",
+        "dramatic",
+        "Video Game Announcer"
+      ],
+      "description": "Smash Bros voz "
+    },
+    {
+      "id": "b63eb2796f7342ffa645141c67855997",
+      "title": "smash bros announcer",
+      "tags": [
+        "male",
+        "old",
+        "deep",
+        "announcer",
+        "character-voice",
+        "entertainment",
+        "gaming",
+        "enthusiastic",
+        "dramatic"
+      ],
+      "description": "announcer for smash bros ultimate"
+    },
+    {
+      "id": "88872b3d83694d8490b55d75480205a0",
+      "title": "Mortal Kombat Announcer ",
+      "tags": [
+        "male",
+        "old",
+        "character-voice",
+        "deep",
+        "authoritative",
+        "dramatic",
+        "cinematic",
+        "announcer",
+        "Video Game"
+      ],
+      "description": "SCORPION WINS!"
+    }
+  ]
+}
